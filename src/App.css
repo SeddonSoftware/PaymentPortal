@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.paymentForm{
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+}
+
+.formRow{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+input{
+  width: 50%;
+}
